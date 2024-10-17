@@ -1,11 +1,11 @@
 {
   "rows": [
     {
-      "Version_code": 3,
+      "Version_code": 4,
       "Update_Title": "CYBER TV",
-      "Update_Message": "🚀 CYBER TV Beta V.3 Update Notice 🚀
+      "Update_Message": "🚀 CYBER TV Beta V.4 Update Notice 🚀
 
-We're excited to announce the release of Cyber TV Beta Version 1.3
+We're excited to announce the release of Cyber TV Beta Version 1.4
 
 What's New:
 - Watch TV for free with improved reliability and performance!
@@ -16,7 +16,7 @@ Thank you for your ongoing support, and we hope you enjoy the enhanced Cyber TV 
 Stay tuned for more updates in the future.",
       "Update_Button_text": "update",
       "Link": "https://www.mediafire.com/folder/7nmty2iptwgdc/CYBER_TV",
-      "Update_Dialog_Close": "true"  // true or false
+      "Update_Dialog_Close": "false"  // true or false
       
     }
   ]
